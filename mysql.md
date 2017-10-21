@@ -34,5 +34,6 @@ $ sudo mv myprofiler /usr/local/bin/
 
 ```
 # 使い方 例
+myprofiler -user=root
 myprofiler -host=db1234 -user=dbuser -password=dbpass -interval=0.2 -delay=10 -top=30
 ```
